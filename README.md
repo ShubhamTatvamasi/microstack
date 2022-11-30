@@ -2,6 +2,8 @@
 
 https://ubuntu.com/openstack/tutorials
 
+https://microstack.run/docs/single-node
+
 Install microstack:
 ```bash
 sudo snap install microstack --beta
