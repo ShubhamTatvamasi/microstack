@@ -12,8 +12,10 @@ Initalize microstack:
 sudo microstack init --auto --control
 ```
 
-ID: admin \
-Pass: `sudo snap get microstack config.credentials.keystone-password`
+ID: `admin`, Pass:
+```bash
+sudo snap get microstack config.credentials.keystone-password
+```
 
 create vm:
 ```bash
