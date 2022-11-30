@@ -2,9 +2,13 @@
 
 https://ubuntu.com/openstack/tutorials
 
-
+Install microstack:
 ```bash
-sudo snap install microstack --beta --devmode
+sudo snap install microstack --beta
+```
+
+Initalize microstack:
+```bash
 sudo microstack init --auto --control
 ```
 
