@@ -12,6 +12,8 @@ Initalize microstack:
 sudo microstack init --auto --control
 ```
 
+https://10.20.20.1
+
 ID: `admin`, Pass:
 ```bash
 sudo snap get microstack config.credentials.keystone-password
